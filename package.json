@@ -1,0 +1,16 @@
+{
+  "private": true,
+  "name": "xuui",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "workspaces": [
+    "packages/*"
+  ],
+  "scripts": {
+    "bootstrap": "node scripts/bootstrap.js"
+  },
+  "devDependencies": {
+    "minimist": "^1.2.5"
+  }
+}

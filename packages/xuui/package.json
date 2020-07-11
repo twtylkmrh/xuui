@@ -1,0 +1,25 @@
+{
+  "name": "xuui",
+  "version": "1.0.0",
+  "description": "xuui",
+  "main": "index.js",
+  "module": "dist/xuui.esm-bundler.js",
+  "files": [
+    "index.js",
+    "dist"
+  ],
+  "types": "dist/xuui.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vuejs/vue.git"
+  },
+  "keywords": [
+    "xuui"
+  ],
+  "author": "Evan You",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vuejs/vue/issues"
+  },
+  "homepage": "https://github.com/vuejs/vue/tree/dev/packages/xuui#readme"
+}
